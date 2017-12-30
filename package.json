@@ -1,0 +1,14 @@
+{
+    "name": "bilibili",
+    "version": "1.0.0",
+    "main": "src/main.js",
+    "scripts": {
+        "start": "electron .",
+        "package": "electron-packager . --linux --electron-version=1.7.10 --out dist/",
+        "debian": "electron-installer-debian --src dist/bilibili-linux-x64/ --dest dist/installers/ --arch amd64"
+    },
+    "devDependencies": {
+        "electron-installer-debian": "",
+        "electron-installer-windows": ""
+    }
+}
