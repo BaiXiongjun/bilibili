@@ -8,8 +8,6 @@ WEB客户端封装的桌面PC版B站
 
 <br>
 
-### 学习交流群（ 客户端(前端)，服务器(后端)，GNU/Linux，SQL/NoSQL ）
+### 服务端-前端-Linux交流群
 
 - QQ:609790518
-
-![](https://github.com/yan-xz/weixin/blob/master/img/qrcode.png)
